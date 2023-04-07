@@ -1,4 +1,4 @@
-# Rock-vs-Mine-prediction-using-Sonar-data
+# Rock-vs-Mine-prediction-using-Sonar-data by Sathyanarayanan
 Problem statement:
 There is a war going on between two different countries namely A and B
 We belong to country 'A'
